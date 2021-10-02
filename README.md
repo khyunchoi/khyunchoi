@@ -1,6 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=GangHyeonChoi&fontSize=80)
 
-안녕하세요!
+<p align="center">
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khyunchoi)](https://solved.ac/khyunchoi)
+</p>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khyunchoi)](https://solved.ac/khyunchoi)
+
 
 
 [![](https://raw.githubusercontent.com/khyunchoi/khyunchoi/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
